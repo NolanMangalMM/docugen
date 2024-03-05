@@ -1,0 +1,23 @@
+car.py: {
+    functions: {
+        sayHi: {
+            functions: {None},
+            classes: {None},
+        }
+    }
+    classes: {
+        car:{
+            functions: {
+                accelerate:{
+                    functions: {None},
+                    classes: {None},
+                },
+                getSpeed{
+                    functions:{None},
+                    classes:{None},
+                }
+            }
+            classes: {None},
+        }
+    }
+}
